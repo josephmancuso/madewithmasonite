@@ -3,7 +3,7 @@
 from masonite.app import App
 from bootstrap.start import app
 from config import application, providers
-
+ 
 """
 |--------------------------------------------------------------------------
 | Instantiate Container And Perform Important Bindings
